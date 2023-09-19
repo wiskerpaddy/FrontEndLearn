@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-weight: 200;
+    text-decoration: underline;
+    letter-spacing: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    font-size: 10px;
+}
+
+#email {
+    font-size: 10px;
+}
+
+div button {
+    background-color: aquamarine;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
+
+h1::first-letter {
+    color: brown;
+}
